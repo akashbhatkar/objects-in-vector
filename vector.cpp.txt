@@ -1,0 +1,27 @@
+//Write a program for insert remove and display elements in vector class
+#include <iostream>
+#include<vector>
+using namespace std;
+
+int main()
+{
+    vector<int> v1;
+    //insertion into vector 
+    v1.push_back(10);
+    v1.push_back(20);
+    v1.push_back(30);
+    v1.push_back(40);
+    v1.push_back(50);
+    
+    v1.begin(),50;
+    v1.begin()+3,70;
+    v1.end()-1,80;
+    v1.end(),100;
+    
+     v1.
+    
+    
+    
+    
+    
+}
